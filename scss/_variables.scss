@@ -1,6 +1,11 @@
 $container-width: 980px !default;
 $grid-gutter:     10px !default;
 
+// Responsive grid
+$grid-min-sm:  768px !default;
+$grid-min-md:  992px !default;
+$grid-min-lg: 1200px !default;
+
 // Brand colors
 $brand-blue:       #4078c0 !default;
 $brand-gray-light: #999    !default;
